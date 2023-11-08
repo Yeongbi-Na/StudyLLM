@@ -2,8 +2,9 @@ we can use LLM model such as Chatgpt, hyperclova etc.
 But we should focus on how to solve a problem in terms of business.
 So, Im studying what the difference is between MS Azure and Palatir AIP based on the situation that we want to use LLM with our own data.
 
-I'd like tell you a few things before I go into detail. "fine-tunig" for LLM  is not best way to apply your business.
-It requires long time and cost and It is not necessary good performance of model. because Almost all data in your company is unstructed and doesn't have any rules that AI can understand.
+Before I go into detail, I want to tell you a few things first. 
+"fine-tuning LLM" may not be the best way to apply your business. It takes a long time and money and there's no guarantee that model performance will always be good. 
+Because almost all of your data is unstructured, and there are no rules that AI can understand.
 
 ## (MS Azure) Cognitive Search + GPT
 MS has GPT model license for business. It means If you want to ensure your data is secure, you can't avoid to use MS Azure.
