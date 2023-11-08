@@ -2,8 +2,6 @@ we can use LLM model such as Chatgpt, hyperclova etc.
 But we should focus on how to solve a problem in terms of business.
 So, Im studying what the difference is between MS Azure and Palatir AIP based on the situation that we want to use LLM with our own data.
 
-I'd like to let you know that "fine-tuning" for LLM require 
-
 I'd like tell you a few things before I go into detail. "fine-tunig" for LLM  is not best way to apply your business.
 It requires long time and cost and It is not necessary good performance of model. because Almost all data in your company is unstructed and doesn't have any rules that AI can understand.
 
